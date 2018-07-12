@@ -1,4 +1,4 @@
-package com.study.eurekazuul.config;
+package com.study.apigateway.config;
 
 import com.netflix.loadbalancer.IRule;
 import org.springframework.context.annotation.Bean;

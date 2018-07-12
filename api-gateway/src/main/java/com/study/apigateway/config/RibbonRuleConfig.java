@@ -1,4 +1,4 @@
-package com.study.eurekazuul.config;
+package com.study.apigateway.config;
 
 import org.springframework.cloud.netflix.ribbon.RibbonClient;
 import org.springframework.context.annotation.Configuration;

@@ -1,4 +1,4 @@
-package com.study.eurekazuul;
+package com.study.apigateway;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
